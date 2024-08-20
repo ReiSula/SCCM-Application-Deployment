@@ -3,17 +3,17 @@ Overview
 This project demonstrates the deployment of various applications using System Center Configuration Manager (SCCM). The focus is on three key applications: Wireshark, VLC Media Player, and Apache OpenOffice. The project covers the entire deployment process, from preparing the installer packages to configuring deployment settings and monitoring the installations across a networked environment.
 
 Applications Deployed : 
--Wireshark
+Wireshark
 
 A network protocol analyzer used for troubleshooting and analyzing network traffic.
 Deployment Type: Required, ensuring automatic installation on targeted devices.
 
--VLC Media Player:
+VLC Media Player:
 
 A versatile media player that supports a wide array of audio and video formats.
 Deployment Type: Available, allowing users to install at their convenience.
 
--Apache OpenOffice:
+Apache OpenOffice:
 
 A free office suite offering word processing, spreadsheets, and presentation tools.
 Deployment Type: Required, with automated installation across the network.
@@ -34,7 +34,9 @@ Adapt for Your Environment: While the examples use specific applications, the st
 
 Tools Used:
 -System Center Configuration Manager (SCCM)
+
 -Windows Server
+
 -Network Distribution Points
 
 Contact:
