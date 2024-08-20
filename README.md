@@ -7,11 +7,13 @@ Wireshark
 
 A network protocol analyzer used for troubleshooting and analyzing network traffic.
 Deployment Type: Required, ensuring automatic installation on targeted devices.
-VLC Media Player
+
+VLC Media Player:
 
 A versatile media player that supports a wide array of audio and video formats.
 Deployment Type: Available, allowing users to install at their convenience.
-Apache OpenOffice
+
+Apache OpenOffice:
 
 A free office suite offering word processing, spreadsheets, and presentation tools.
 Deployment Type: Required, with automated installation across the network.
