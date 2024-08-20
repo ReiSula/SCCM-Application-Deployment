@@ -2,7 +2,7 @@ SCCM Application and Package Deployment
 Overview
 This project demonstrates the deployment of various applications using System Center Configuration Manager (SCCM). The focus is on three key applications: Wireshark, VLC Media Player, and Apache OpenOffice. The project covers the entire deployment process, from preparing the installer packages to configuring deployment settings and monitoring the installations across a networked environment.
 
-Applications Deployed
+Applications Deployed : 
 Wireshark
 
 A network protocol analyzer used for troubleshooting and analyzing network traffic.
